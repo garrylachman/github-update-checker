@@ -1,5 +1,7 @@
 #github-update-checker
 
+[P2P Proxies Network](https://rev.proxies.online)
+
 Compares project's package.json version and latest GitHub tag version and returns the result.
 
 github-update-checker automatically tries to get project's `package.json` and construct a URL to GitHub API from `repository.url` section, but can get everything as an option.
